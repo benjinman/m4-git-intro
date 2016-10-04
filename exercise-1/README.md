@@ -11,6 +11,9 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 7. Push changes up to GitHub
 
 List of what I ate for breakfast today:
+
 1. Fried rice w/ sausage and veggies
+
 2. Hot and sour soup
+
 3. Stir fried Chinese celery
